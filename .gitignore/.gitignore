@@ -5,15 +5,15 @@
 <title>Title</title>
 <form action="/pagina-processa-dados-do-form" method="post">
     <div>
-        <label for="nome">Nome:</label>
-        <input type="text" id="nome" />
+        <label for="matheus">Nome:</label>
+        <input type="text" id="matheus" />
     </div>
     <div>
         <label for="matricula">matricula:</label>
-        <input type="matricula" id="matricula" />
+        <input type="matricula" id="0050012368" />
     </div>
   <div>
-  <img src="avatar.png" alt="Texto alternativo" title="Avatar" />
+  <img src="avatar.png" alt="Texto alternativo" title="avatar" />
    <img src="arquivo_inexistente.jpg" alt="Texto alternativo" title="Outra figura"/>
 <a href="https://www.youtube.com/watch?v=UMhskLXJuq4">Página 2</a>
 </div>
